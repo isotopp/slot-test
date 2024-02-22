@@ -1,0 +1,26 @@
+SlotVector: elapsed=3.3709
+Sizing SlotVector
+Instance: 96 bytes
+1 mio instances: 104.45 bytes per instance
+
+DictVector: elapsed=4.1109
+Sizing DictVector
+Instance: 304 bytes
+1 mio instances: 200.45 bytes per instance
+
+SlotTest: elapsed=49.7502
+Sizing SlotTest
+Instance: 1632 bytes
+1 mio instances: 1640.45 bytes per instance
+
+DictTest: elapsed=52.6164
+Sizing DictTest
+Instance: 3328 bytes
+1 mio instances: 1736.45 bytes per instance
+
+HashTest: elapsed=60.3154
+Sizing hash_test
+Deep size of instance: 3504 bytes
+Total size (with deep size of objects): 3512.45 bytes
+
+

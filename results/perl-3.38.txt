@@ -1,0 +1,4 @@
+Time: 47.3388111591339
+Instance: 3142 bytes.
+1 mio instances: 1904.001334 bytes per instance.
+

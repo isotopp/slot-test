@@ -92,7 +92,6 @@ $time_delta = $time_end - $time_start;
 
 echo "Time: $time_delta\n";
 echo "Memory: $mem_delta\n";
-echo;
 
 #### 
 
@@ -114,4 +113,3 @@ $time_delta = $time_end - $time_start;
 
 echo "Time: $time_delta\n";
 echo "Memory: $mem_delta\n";
-echo;
